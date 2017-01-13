@@ -1,7 +1,7 @@
 # Engineered NanoMaterial Summaries
 
 Summaries of data available in the http://data.enanomapper.net/ database
-instance.
+instance. You can browse these at http://egonw.github.io/enmSummaries/
 
 ## Dependencies
 
